@@ -79,4 +79,4 @@ Afternoon, Evening and Night slots accordingly.
 Logic of these conversions is little bit tricky.
 
 ## **More information**
-Visit this python file for more detailed analysis FlightPricePrediction.ipynb
+Visit this python file for more detailed analysis [FlightPricePrediction.ipynb](https://github.com/anjanikmr39/Flight-Price-Prediction/blob/master/FlightPricePrediction.ipynb)
