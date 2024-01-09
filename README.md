@@ -79,14 +79,4 @@ Afternoon, Evening and Night slots accordingly.
 Logic of these conversions is little bit tricky.
 
 ## **More information**
-Visit this python file for more detailed analysis [EquakeDamagePred.ipynb](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/blob/master/EquakeDamagePred.ipynb).
-
-
-
-
-
-
-
-
-## **More information**
-Visit this python file for more detailed analysis [EquakeDamagePred.ipynb](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/blob/master/EquakeDamagePred.ipynb).
+Visit this python file for more detailed analysis FlightPricePrediction.ipynb
